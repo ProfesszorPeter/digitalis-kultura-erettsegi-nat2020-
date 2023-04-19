@@ -1,0 +1,7 @@
+"ekod";"nev";"ev";"mufaj";"emerton"
+1;"Locomotiv GT";1971;"rock, progresszív rock, jazz-rock";-1
+2;"Edda Művek";1978;"rock, hard rock, blues-rock";-1
+3;"Kispál és a Borz";1987;"rock, alternatív rock";-1
+4;"Republic";1990;"rock, folk rock, post-punk, instrumentális rock, pop rock, beat";-1
+5;"Magna Cum Laude";1999;"pop, funk rock";0
+6;"Illés-együttes";1965;"pop, beat, folk rock, AC rock";-1
