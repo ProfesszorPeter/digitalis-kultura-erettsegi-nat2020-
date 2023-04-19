@@ -1,0 +1,20 @@
+A kerékpárszállításra vonatkozó menetrendi jelölések
+Kerékpár nem szállítható.
+Kerékpár a vonaton a megjelölt helyen szállítható.
+Kerékpár a vonaton a megjelölt helyen szállítható. Kerékpárhely foglalása kötelező.
+Kerékpárszállító kocsi közlekedik.
+Kerékpárszállító kocsi közlekedik. Kerékpárhely foglalása kötelező.
+Nemzetközi forgalomban kerékpár a vonaton a megjelölt helyen szállítható. Kerékpárhely foglalása kötelező. Belföldi forgalomban kerékpár nem szállítható.
+2-2 darab kerékpár szállítható a menetrendben a fenti piktogramokkal nem jelölt vonatokon is – a kötelező ülőhely biztosítással igénybe vehető kocsi kivételével – a vonat első vagy utolsó másodosztályú peronján.
+Kerékpárszállítás feltételei
+Egy utas egy darab – legfeljebb 300 watt teljesítményű elektromos segítőmotorral felszerelt – kerékpárt vihet magával.
+A 12 évesnél fiatalabb gyermek a kerékpárját csak felnőtt kíséretében viheti.
+Ha a kerékpár kereke 20"-nál nagyobb, csak kerékpár-viteldíj megfizetése mellett, a kerékpárokra vonatkozó egyéb szabályok betartásával szállítható (akár össze van csukva, akár nem). A kerékpárjegyet akkor is meg kell vásárolni, ha az utas szétszereli a kerékpárját (például az egyik kerekét leszereli), de a részeket egyazon utazás során szállítja.
+Minden 20", vagy annál kisebb kerékátmérőjű kerékpár, és az eredetileg egykerekűnek gyártott kerékpár (monocikli) – amennyiben a többi utast nem akadályozza – az étkező-, háló-, illetve fekvőhelyes kocsi kivételével az 1. piktogrammal jelölt vonatokon is díjfizetés nélkül a jármű utasterében vagy összecsukva és becsomagolva szállítható; vagy a jármű peronján – összecsukhatóságtól függetlenül – csomagolás nélkül is szállítható.
+A kerékpárok becsomagolásánál elegendő a szennyezést és sérülést okozni képes részek beburkolása.
+A 14 év alatti gyermek a 20"-nál nem nagyobb kerékátmérőjű gyermekkerékpárját bármilyen vonaton a jármű utasterében díjfizetés nélkül szállíthatja, amennyiben a többi utast nem akadályozza.
+Különleges kialakítású kerékpárok szállítása
+Tandem-kerékpár csak a 4. és 5. piktogrammal megjelölt vonatokon, a kerékpárszállító kocsiban szállítható, a többi vasúti kocsi egyéb tereiben (például első-utolsó kocsi előtere, többcélú tér) nem.
+A tandem-kerékpárhoz egy kerékpárjegyet kell vásárolni.
+Kerékpár-utánfutó a 2. 3. 4. és 5. piktogrammal megjelölt vonatokon, csak a kerékpárpiktogrammal megjelölt járműrészben szállítható. Csak kerékpárszállító kocsiban szállítható egynél több kerékpár-utánfutó. Egy utas csak egy kerékpár-utánfutót szállíthat, amennyiben kerékpárt is visz magával.
+Kerékpár-utánfutót az utas menetjegyén és kerékpárjegyén felül váltott kettő darab további kerékpárjeggyel lehet szállítani. Tehát aki egy darab – 20”-nál nagyobb kerékátmérőjű – kerékpárt és egy darab utánfutót szállít, annak menetjegyén felül három darab kerékpárjeggyel kell rendelkeznie. Ez a szabály a kedvezményes kerékpárjegyre, a díjmentes kerékpárjegyre, a kerékpáros túrajegyre, a kerékpáros bérletre és a kerékpárhelyjegyre is alkalmazandó.
